@@ -1,7 +1,3 @@
-Here's a professionally updated and polished version of your README that improves clarity, structure, and presentation. I’ve reworded some parts for better flow, corrected grammar, added missing technical details, and clarified setup instructions:
-
----
-
 # 🕐 Intermittent Fasting Tracker App
 
 A **cross-platform mobile application** built with **React Native (Expo)** to help users **track their intermittent fasting windows**. The app features a **fasting and eating period timer**, allowing users to create, monitor, and review their fasting plans. All data is stored **locally** using `AsyncStorage`.
