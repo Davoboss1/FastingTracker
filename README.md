@@ -103,7 +103,17 @@ This is an **initial version** of the fasting tracker app. Planned features for 
 - 📊 Analytics & streak tracking
     
 - 🎯 Personalized fasting recommendations
-    
+
+### Screenshots of the app
+
+https://github.com/user-attachments/assets/5010e140-9e55-4ae5-8c0f-4f00c4f11229
+
+![6](https://github.com/user-attachments/assets/3c5065e3-5ba1-42c9-bfe3-8af08600c84b)
+![5](https://github.com/user-attachments/assets/35c36e23-f83a-4019-8f0b-1bf4e6f8162a)
+![4](https://github.com/user-attachments/assets/e6e071f5-184d-4296-ad33-13f23c0fb7a6)
+![3](https://github.com/user-attachments/assets/b31b2f68-8ce9-4168-8430-f0872d0e6ed6)
+![2](https://github.com/user-attachments/assets/949b4608-49d3-499e-a03b-09d9894d111b)
+![1](https://github.com/user-attachments/assets/9dc3938e-3aa1-48bd-9e2c-4b3729632688)
 
 ---
 
