@@ -20,10 +20,31 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.davoboss1.FastingTracker"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bc5248be-0760-4817-8107-993b07b4210b"
+      }
+    },
+    "plugins": [
+      [
+        "expo-font",
+        {
+          "fonts": [
+            "node_modules/@expo-google-fonts/karla/400Regular/Karla_400Regular.ttf",
+            "node_modules/@expo-google-fonts/karla/600SemiBold/Karla_600SemiBold.ttf",
+            "node_modules/@expo-google-fonts/karla/800ExtraBold/Karla_800ExtraBold.ttf",
+            "node_modules/@expo-google-fonts/quicksand/400Regular/Quicksand_400Regular.ttf",
+            "node_modules/@expo-google-fonts/quicksand/600SemiBold/Quicksand_600SemiBold.ttf",
+            "node_modules/@expo-google-fonts/quicksand/700Bold/Quicksand_700Bold.ttf"
+          ]
+        }
+      ]
+    ]
   }
 }
